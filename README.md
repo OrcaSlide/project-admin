@@ -2,19 +2,31 @@
 
 Project Administration assets for Orcaslide repositories.
 
-## Changelog 14/Oct
+## Changelog 21/Oct
 
 * Basic Sketch Labels:
 
-1. Add
-2. Code Frezze
-3. Config
-4. Delete
-5. Delete Branch
-6. Feature
-7. Fix
-8. HotFix
-9. Merge
-10. Ready
-11. Refactor
-12. Styles
+## Categories:
+
+### Proceso de Construcción
+
+- Config
+- Feature
+- Fix
+- Styles
+
+### Proceso de Cambios
+
+- Delete
+- Refactor
+- HotFix
+
+### Intercambio de Estafeta
+
+- Ready
+
+### Término de Flujo
+
+- Merge
+- Delete Branch
+- CodeFreeze
